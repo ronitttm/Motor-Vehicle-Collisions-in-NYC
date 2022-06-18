@@ -1,5 +1,4 @@
-from turtle import bgcolor
-from typing import Any
+
 from PIL import Image
 import streamlit as st
 import pandas as pd
